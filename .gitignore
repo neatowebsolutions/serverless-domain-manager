@@ -6,5 +6,5 @@ npm-debug.log
 .DS_Store
 *.iml
 **/.serverless
-dist/
+#dist/
 .nyc_output/
